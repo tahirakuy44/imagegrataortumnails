@@ -1,0 +1,6 @@
+{
+  "name": "YT ThumbGen",
+  "description": "App to fetch a YouTube thumbnail and regenerate its background using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
